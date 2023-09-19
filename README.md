@@ -18,6 +18,7 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
 ## Como me encontrar
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-campos-b39881278/)
+
 E-mail: daneilcempusprog@gmail.com
 
 ## Agradecimentos
