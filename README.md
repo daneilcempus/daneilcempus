@@ -1,4 +1,4 @@
-`Cientista de Dados`
+## Sobre mim
 
 Olá! Meu nome é Daniel Campos da Cruz e sou um entusiasta da tecnologia apaixonado por inteligência artificial. Com apenas 19 anos, estou no início da minha jornada na área de ciência de dados e machine learning. Atualmente, estou aprimorando minhas habilidades através do Bootcamp de Ciência de Dados na Practicum e tenho buscado conhecimento por meio de diversos cursos na plataforma Alura.
 
