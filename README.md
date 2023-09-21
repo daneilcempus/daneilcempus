@@ -14,6 +14,7 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
 - Python
 - Estatísticas
 - Análise de Dados
+- Comportamento Humano
 
 ## Como me encontrar
 
