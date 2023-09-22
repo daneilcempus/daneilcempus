@@ -61,9 +61,12 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
 
   
 </details> 
-- Estatísticas
-- Análise de Dados
-- Comportamento Humano
+
+
+<details><summary>Comportamento Humano</summary>
+
+<h5>Atualmente, estudo por hobby, apesar de ter ingressado em uma faculdade de Psicologia em 2023. </h5>
+</details> 
 
 ## Como me encontrar
 
