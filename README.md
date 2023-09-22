@@ -20,7 +20,11 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
     
 </details>
 
-- Machine Learning
+<details>
+  <summary>Machine Learning</summary>
+
+  <details><summary>Supervisionado</summary></details>
+</details>
 - Inteligência Artificial
 - Python
 - Estatísticas
