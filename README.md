@@ -47,7 +47,20 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
 <h5>Tenho um grande interesse por esta área, mas minha experiência prática na criação de projetos que podem ser classificados como Inteligência Artificial ainda está em estágios iniciais.</h5>
 </details>
 
-- Python
+<details><summary>Python</summary>
+
+- Pandas
+- Matplotlib
+- Numpy
+- Sklearn
+- Keras
+- Scipy
+- BeautifulSoup
+- LightGBM
+- Pipenv
+
+  
+</details> 
 - Estatísticas
 - Análise de Dados
 - Comportamento Humano
