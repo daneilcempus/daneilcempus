@@ -44,7 +44,7 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
 
 <details><summary>Inteligência Artificial</summary>
   
-Tenho um grande interesse por esta área, mas minha experiência prática na criação de projetos que podem ser classificados como Inteligência Artificial ainda está em estágios iniciais.
+<h1 style="font-size: 20px;">Tenho um grande interesse por esta área, mas minha experiência prática na criação de projetos que podem ser classificados como Inteligência Artificial ainda está em estágios iniciais.</h1>
 </details>
 
 - Python
