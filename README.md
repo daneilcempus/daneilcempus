@@ -23,7 +23,12 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
 <details>
   <summary>Machine Learning</summary>
 
-  <details><summary>Supervisionado</summary></details>
+  <details>
+    <summary>Aprendizado Supervisionado</summary>
+
+    - Linear Model (Regressão e Classificação)
+    - 
+  </details>
 </details>
 - Inteligência Artificial
 - Python
