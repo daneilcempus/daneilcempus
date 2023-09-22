@@ -9,7 +9,7 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
 ## Principais interesses e Skills
 
 <details>  
-  <summary>Ciência de Dados</summary>
+  <summary>Ciência de Dados</summary><br>
   
   - Estatísticas
   - Álgebra Linear 
