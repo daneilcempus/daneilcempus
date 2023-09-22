@@ -10,7 +10,9 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
 
 <details>  
   <summary>Ciência de Dados</summary>
+  
   - Estatísticas
+  
   - Álgebra Linear 
   - Fundamentos da Computação
   - Fundamentos do aprendizado de maquina
