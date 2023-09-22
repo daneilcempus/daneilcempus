@@ -8,7 +8,7 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
 
 ## Principais interesses
 
-<details><sumary>Ciência de Dados </sumary> </details>
+<details><summary>Ciência de Dados </summary></details>
 - Machine Learning
 - Inteligência Artificial
 - Python
