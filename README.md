@@ -8,7 +8,15 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
 
 ## Principais interesses
 
-<details><summary>Ciência de Dados </summary></details>
+<details>  
+  <summary>Ciência de Dados</summary>
+  - Estatísticas
+  - Álgebra Linear 
+  - Fundamentos da Computação
+  - Fundamentos do aprendizado de maquina
+  - Conhecimento com banco de dados
+  - Vizualização e Limpeza de dados
+</details>
 - Machine Learning
 - Inteligência Artificial
 - Python
