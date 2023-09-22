@@ -17,11 +17,11 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
   - Fundamentos do aprendizado de maquina
   - Conhecimento com banco de dados
   - Vizualização e Limpeza de dados
-    
+  <br>  
 </details>
 
 <details>
-  <summary>Machine Learning (Supervisionado)</summary>
+  <summary>Machine Learning (Supervisionado)</summary><br>
 
   - Linear Model (Regressão e Classificação)
   - KNN
@@ -31,23 +31,23 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
   - Metricas de validação (Classificação e Regressão)
   - Tecnica de Validação cruzada
   - Tecnicas de Otimização
-    
+  <br>  
 </details>
 
 <details>
-  <summary>Machine Learning (Não supervisionado)</summary>
+  <summary>Machine Learning (Não supervisionado)</summary><br>
 
   - Clustering (Conhecimento Limitado - Ainda em estudo)
-  
+  <br>
 </details>
 
 
-<details><summary>Inteligência Artificial</summary>
+<details><summary>Inteligência Artificial</summary><br>
   
-<h5>Tenho um grande interesse por esta área, mas minha experiência prática na criação de projetos que podem ser classificados como Inteligência Artificial ainda está em estágios iniciais.</h5>
+<h5>Tenho um grande interesse por esta área, mas minha experiência prática na criação de projetos que podem ser classificados como Inteligência Artificial ainda está em estágios iniciais.</h5><br>
 </details>
 
-<details><summary>Python</summary>
+<details><summary>Python</summary><br>
 
 - Pandas
 - Matplotlib
@@ -59,13 +59,13 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
 - LightGBM
 - Pipenv
 
-  
+<br>  
 </details> 
 
 
-<details><summary>Comportamento Humano</summary>
+<details><summary>Comportamento Humano</summary><br>
 
-<h5>Atualmente, estudo por hobby, apesar de ter ingressado em uma faculdade de Psicologia em 2023. </h5>
+<h5>Atualmente, estudo por hobby, apesar de ter ingressado em uma faculdade de Psicologia em 2023. </h5><br>
 </details> 
 
 ## Como me encontrar
