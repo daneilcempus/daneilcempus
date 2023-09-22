@@ -6,19 +6,20 @@ Olá! Meu nome é Daniel Campos da Cruz e sou um entusiasta da tecnologia apaixo
 
 Neste repositório, você encontrará uma variedade de projetos e trabalhos relacionados ao meu aprendizado e exploração na área de ciência de dados e machine learning. Estou constantemente atualizando e aprimorando meu conhecimento, por isso, sinta-se à vontade para explorar e fornecer feedback construtivo.
 
-## Principais interesses
+## Principais interesses e Skills
 
 <details>  
   <summary>Ciência de Dados</summary>
   
   - Estatísticas
-  
   - Álgebra Linear 
   - Fundamentos da Computação
   - Fundamentos do aprendizado de maquina
   - Conhecimento com banco de dados
   - Vizualização e Limpeza de dados
+    
 </details>
+
 - Machine Learning
 - Inteligência Artificial
 - Python
