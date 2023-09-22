@@ -21,15 +21,27 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
 </details>
 
 <details>
-  <summary>Machine Learning</summary>
+  <summary>Machine Learning (Supervisionado)</summary>
 
-  <details>
-    <summary>Aprendizado Supervisionado</summary>
-
-    - Linear Model (Regressão e Classificação)
-    - 
-  </details>
+  - Linear Model (Regressão e Classificação)
+  - KNN
+  - Decision Tree (Classifier and Regressor) 
+  - Ensemble Learning (Bagging and Boosting)
+  - Generative Model
+  - Metricas de validação (Classificação e Regressão)
+  - Tecnica de Validação cruzada
+  - Tecnicas de Otimização
+    
 </details>
+
+<details>
+  <summary>Machine Learning (Não supervisionado)</summary>
+
+  - Clustering (Conhecimento Limitado - Ainda em estudo)
+  
+</details>
+
+
 - Inteligência Artificial
 - Python
 - Estatísticas
