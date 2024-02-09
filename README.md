@@ -38,6 +38,7 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
   <summary>Machine Learning (Não supervisionado)</summary><br>
 
   - Clustering
+  - Redução de dimensionalidade
   <br>
 </details>
 
