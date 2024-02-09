@@ -37,7 +37,7 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
 <details>
   <summary>Machine Learning (Não supervisionado)</summary><br>
 
-  - Clustering (Conhecimento Limitado - Ainda em estudo)
+  - Clustering
   <br>
 </details>
 
