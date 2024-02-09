@@ -43,11 +43,6 @@ Neste repositório, você encontrará uma variedade de projetos e trabalhos rela
 </details>
 
 
-<details><summary>Inteligência Artificial</summary><br>
-  
-<h5>Tenho um grande interesse por esta área, mas minha experiência prática na criação de projetos que podem ser classificados como Inteligência Artificial ainda está em estágios iniciais.</h5><br>
-</details>
-
 <details><summary>Python</summary><br>
 
 - Pandas
